@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Figtree:ital,wght@0,300..900;1,300..900&display=swap');
+
+.font {
+    font-family: Figtree;
+    color: rgb(0, 48, 50);
+    font-size: 16px;
+    font-weight: 600;
+    font-style: normal;
+    line-height: 19px;
+}
+
+.background{
+    background-color: rgb(36, 50, 66);
+}
+
+.text{
+    font-style: normal;
+    font-weight: 600px;
+    color: rgb(36, 50, 66);
+    font-size: 42px;
+    line-height: normal;
+}
+
+.normaltext{
+    color: white;
+    font-style: normal;
+    font-weight: 700px;
+    font-size: 32px;
+    line-height: 38px;
+}
+
